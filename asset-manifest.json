@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MiaPortfolio/static/css/main.0725014f.css",
-    "main.js": "/MiaPortfolio/static/js/main.0b7c9f11.js",
+    "main.css": "/MiaPortfolio/static/css/main.d39b7421.css",
+    "main.js": "/MiaPortfolio/static/js/main.d6874fd5.js",
     "static/media/bglight.gif": "/MiaPortfolio/static/media/bglight.bbf2e0f679daa2ccb3f7.gif",
     "static/media/p2-removebg.png": "/MiaPortfolio/static/media/p2-removebg.814bc280065d98a52b2c.png",
     "static/media/c3.jpg": "/MiaPortfolio/static/media/c3.6098db90641b4f60de93.jpg",
@@ -41,11 +41,11 @@
     "static/media/revicons.ttf": "/MiaPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/MiaPortfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/MiaPortfolio/index.html",
-    "main.0725014f.css.map": "/MiaPortfolio/static/css/main.0725014f.css.map",
-    "main.0b7c9f11.js.map": "/MiaPortfolio/static/js/main.0b7c9f11.js.map"
+    "main.d39b7421.css.map": "/MiaPortfolio/static/css/main.d39b7421.css.map",
+    "main.d6874fd5.js.map": "/MiaPortfolio/static/js/main.d6874fd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0725014f.css",
-    "static/js/main.0b7c9f11.js"
+    "static/css/main.d39b7421.css",
+    "static/js/main.d6874fd5.js"
   ]
 }
